@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinTestProject</string>
+    <string name="stringNotes">Заметки</string>
 </resources>
